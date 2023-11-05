@@ -776,6 +776,7 @@ color: var(--text-black-700);
     .home-section .home-info{
     flex: 0 0 100%;
     max-width: 100%;
+
   }
   
     .home-section .home-img{
@@ -787,6 +788,7 @@ color: var(--text-black-700);
     .about .about-content .about-text{
         flex: 0 0 100%;
         max-width: 100%;
+        padding: 20px;
     }
     .about .personal-info{
         flex: 0 0 100%;
@@ -812,6 +814,7 @@ color: var(--text-black-700);
     .row .contact .contact-form{
         flex: 0 0 100%;
         max-width: 100%;
+       ;
     }
 
     .contact .contact-info-item{
@@ -821,7 +824,6 @@ color: var(--text-black-700);
     .contact .contact-form{
         margin-left: 0;
         
-    
     }
     .contact .contact-form .col-6{
         flex: 0 0 100%;
